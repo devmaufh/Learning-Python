@@ -5,4 +5,4 @@ for i in f:
 f="Last 10 digits are: "
 for i in range(10):
      f+=str(a)[i]
-print f
+print (f)
